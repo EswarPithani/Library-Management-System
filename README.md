@@ -73,11 +73,7 @@ A web app for managing all the activities of a library like managing members and
 - Mohith
 - Eswar
 - Dheeraj
-
-## License 🏆
-
-This repository is licensed under MIT License. Find [LICENSE](LICENSE) to know more
-=======
+- 
 # Library-Management-System
 This repository consists of Library Management System Project for Software Engineering Lab
->>>>>>> a410e1fe2d0c7127caf862882be0e6888e9ba802
+
